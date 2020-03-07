@@ -1,0 +1,5 @@
+a,b,c,d=input(),input(),input(),input()
+print(a)
+print(b)
+print(c)
+print(d)
